@@ -23,7 +23,7 @@ Usage
     
     # get member by bioguide ID
     >>> pelosi = congress.members.get('P000197')
-    >>> pelosi['twitter_id']
+    >>> pelosi['twitter_account']
     'NancyPelosi'
     
     # get recent House bills
